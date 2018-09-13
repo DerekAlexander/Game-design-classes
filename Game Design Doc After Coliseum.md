@@ -37,8 +37,6 @@ Written by Derek Alexander, Sabrina Castillo, Chris Delgado, Joe Mireles
 - Hand Controller	16
 - Additional game art	17
 - UI elements	17
-- Sound and Music	18
-- Sound Effects	19
 - Competitive Analysis	20
 - Smite –Derek Alexander	20
 - League of Legends- Chris Delgado	20
@@ -79,7 +77,7 @@ Shop npcs plus the in match shop keeper (dapper donkey) dialog.
 
 ## Level design
 ### After coliseum  
- <link here>  
+![Image of enviorment](https://github.com/DerekAlexander/Game-design-classes/blob/master/environment.png)  
  
 * Terminators  
 * 3 Tiers of Towers  
@@ -96,19 +94,20 @@ Players have to deal with weak level minions when they themselves are weak and m
 Map design.  
 
 ## Lobby level layout
- <link here>
-Lobby overall area  
 
-<link here>
+  Lobby overall area  
+![Image of lobby](https://github.com/DerekAlexander/Game-design-classes/blob/master/old-west-steampunk.jpg)  
+
 Lobby area. Where you go to queue for a match.  
- <link here>
-Alchemist workshop for buying augments.
-<link here>
-Costume room. For buying costumes and skins.  
+![Image of que area](https://github.com/DerekAlexander/Game-design-classes/blob/master/PelicanInn_Uncharted3.jpg)  
 
+Alchemist workshop for buying augments.
+![Image of buy augments](https://github.com/DerekAlexander/Game-design-classes/blob/master/steampunk%20electro-organ_detail_jan23.jpg)  
+Costume room. For buying costumes and skins.  
+![Image of buy cosmetics](https://github.com/DerekAlexander/Game-design-classes/blob/master/awesome-steampunk-room-by-homasya-dgse.jpg)
 ## Characters
 ### Hiracle  
- <Link here>
+ ![Image of lion](https://github.com/DerekAlexander/Game-design-classes/blob/master/lion.jpg)
 o	Passive: Pounce - When approaching an enemy from out of the fog of war, Hiracle pounces to his target, closing the distance between him and his prey. Cooldown of 45 seconds.  
 o	Chomp - Slows enemy target and does damage.  
 o	Proud Roar - Allies around Hiracle move faster for 5 seconds.  
@@ -116,7 +115,7 @@ o	Kings’ Strike - Hiracle impales a target enemy on his tail, doing 25+level d
 o	Ultimate: Hunters’ Stealth - Hiracle becomes invisible to enemies but is slowed for 6 seconds. Hiracle’s next attack auto procs Pounce.  
 
 ### Pengu  
-<Link here>
+ ![Image of penguin](https://github.com/DerekAlexander/Game-design-classes/blob/master/penguin.jpg)
 o	Passive - Straight Chillin’: Pengu deals increased damage to frozen targets.  
 o	Snowball - Basic targeted ranged attack that deals damage and slows an enemy  
 o	Ice Beam - Instant attack that freezes a single target  
@@ -124,7 +123,7 @@ o	NOOT NOOT - Pengu lays on his stomach and engages his jetpack, dealing damage 
 o	Ultimate - Just the tip of the Iceberg: Creates a zone of pure ice, damaging anyone within the radius. If enemies are just outside the radius, freezes them instead,  
 
 ### Deurorwolf  
-<link here>
+![Image of wolf](https://github.com/DerekAlexander/Game-design-classes/blob/master/wolf%20v2.jpg)
 o	Passive - Wub Wub: Dire wolf blasts music remix’s that scramble that give party slight increase in mana.  
 o	Strike Tazer Claw - Dire Wolfs claws light up with electricity and he slashes enemies, enemy hit with attack is paralyzed for five seconds  
 o	Ion Shot - Fires a shot from blaster in dire wolfs mouth every .8 seconds dealing 5 damage plus level every time it hits an enemy.  
@@ -132,7 +131,7 @@ o	Nitro Burn - Dire wolf forces energy into feat that expels from the blade like
 o	Ultimate - Overcharge: The super attack of the dire wolf he bites an enemy then charges the blaster in its mouth releasing it results in a explosion that deal a percentage of damage to the user but more damage to the enemy.  
 
 ### SheepSheep  
-<link here>
+![Image of sheep](https://github.com/DerekAlexander/Game-design-classes/blob/master/sheep.png)  
 o	Passive - Static buildup: Stores static in his/her wool when moving, up to x amount of charge.  
 o	. Charge up - Spends ¼ stored static to heal for x amount of health  
 o	Iron wool - Activates to hav damage be dealt to charge rather than hp if charge is above x threshold.  
@@ -140,7 +139,7 @@ o	Static shock - Spends ¼ charge to deal x damage to enemies around him/her and
 o	Ultimate- Surge: Spends all his/her charge to deal x damage to a single. Stunning them for 2 sec.  
 
 ### Boom Chicken  
- <Link here>
+![Image of chicken](https://github.com/DerekAlexander/Game-design-classes/blob/master/chicken.png)  
 o	Passive: Building Rage: attacks on a tower build 1 stack per hit that give increased damage to towers. Stacks can build up to 5 giving a total of 5% extra damage.  
 o	Eggs of Untold Terror: lays eggs that open like a fruit and have a little laser coming up out of it. And can re-spawn at eggs until another hero finds and kills them  
 o	Eggs of Unholy Retribution: can lay eggs with dynamite strapped to it that explode.  
@@ -154,44 +153,24 @@ o	Ultimate: IMMA FIRIN’ MAH LAZOR: does a 1.5s charge where the chicken opens 
 ## Modes of Play  
 Player Versus Player 2V2, 3V3, and 5V5  
 ## Game Flow
-<link here> 
-
+![Image of game flow](https://github.com/DerekAlexander/Game-design-classes/blob/master/game_flow_chart.png)
 ## AI Features
-<link here>  
+![Image of ai flow](https://github.com/DerekAlexander/Game-design-classes/blob/master/ai_flow_chart.png)
 
 ## Weapons, items and Shop UI
-<Link here>  
-
+![Image of ui](https://github.com/DerekAlexander/Game-design-classes/blob/master/ui.png)
 ## Hand Controller
-<link here>  
-
-## Additional game art  
-<link here>  
-
-3 tiers of minions  
-<link here>
+![Image of controller](https://github.com/DerekAlexander/Game-design-classes/blob/master/controller-scheme.png)
 
 ## UI elements  
 Hiracle skill bar UI  
- 
+![Image of lion ui](https://github.com/DerekAlexander/Game-design-classes/blob/master/lion%20ui.png)  
 Boom Chicken skill bar UI  
- 
+ ![Image of chicken ui](https://github.com/DerekAlexander/Game-design-classes/blob/master/chicken%20ui.png)  
 Deuror Wolf skill bar UI  
- 
+ ![Image of wolf ui](https://github.com/DerekAlexander/Game-design-classes/blob/master/wolf%20ui.png)  
 Pengu skill bar UI  
- 
-Sound and Music  
-
-Match in combat music:  
- 
-
-Lobby area music:  
- 
-
-Match idle music:  
- 
-## Sound Effects  
- 
+ ![Image of penguin ui](https://github.com/DerekAlexander/Game-design-classes/blob/master/penguin%20ui.png)  
 
 ## Competitive Analysis
 ### Smite –Derek Alexander  
